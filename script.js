@@ -71,6 +71,7 @@ function createSidebarLinks(data) {
         sidebar.appendChild(link);
     });
 }
+
 // Additional code to show a specific chat based on index and hide others
 function showChat(index) {
     const allChats = document.querySelectorAll('.conversation');
