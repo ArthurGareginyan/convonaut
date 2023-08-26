@@ -11,6 +11,7 @@ All notable changes to the "Convonaut" project will be documented in this file.
 - CSS styling to visually separate messages.
 
 ### Changed
+- Updated `title` tag in `index.html` to include the project name "Convonaut: ChatGPT Archive Navigator".
 - Moved out all CSS code to a separate `styles.css` file.
 - Changed `chat.html` file to `index.html`.
 - Improved code formatting in files.
