@@ -1,5 +1,5 @@
     // Fetching the JSON data
-    fetch('chat_data.json')
+    fetch('conversations.json')
         .then(response => response.json())
         .then(data => initializeData(data))
         .catch(error => console.error('An error occurred:', error));
