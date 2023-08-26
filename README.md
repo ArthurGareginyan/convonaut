@@ -35,7 +35,7 @@ Once the web page is loaded, you'll see a sidebar on the left with a list of cha
 - `index.html`: Main HTML file for layout.
 - `styles.css`: Styling for the HTML components.
 - `script.js`: JavaScript code for dynamic rendering.
-- `chat_data.json`: JSON file containing the chat data.
+- `conversations.json`: JSON file containing the chat data.
 
 ## Contributing
 
