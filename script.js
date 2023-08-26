@@ -48,4 +48,19 @@
               }
               root.appendChild(div);
           }
+
+          // Create sidebar links
+          createSidebarLinks(data);
       }
+
+// Additional code to create sidebar links
+function createSidebarLinks(data) {
+    const sidebar = document.querySelector('.sidebar');
+    data.forEach((chat, index) => {
+        const link = document.createElement('a');
+        link.textContent = chat.title;
+        link.href = '#';
+        link.addEventListener('click', () => showChat(index));
+        sidebar.appendChild(link);
+    });
+}
