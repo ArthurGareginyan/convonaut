@@ -34,7 +34,8 @@ h4 {
     position: fixed;
     height: 100%;
     overflow: auto;
-}.sidebar a {
+}
+.sidebar a {
     display: block;
     color: white;
     padding: 16px;
