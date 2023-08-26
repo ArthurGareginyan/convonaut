@@ -51,6 +51,13 @@
 
           // Create sidebar links
           createSidebarLinks(data);
+      
+      // Initially hide all chats and display the first one
+      const allChats = document.querySelectorAll('.conversation');
+      allChats.forEach(chat => chat.style.display = 'none');
+      if (allChats.length > 0) {
+          allChats[0].style.display = 'block';
+      }
       }
 
 // Additional code to create sidebar links
@@ -62,5 +69,16 @@ function createSidebarLinks(data) {
         link.href = '#';
         link.addEventListener('click', () => showChat(index));
         sidebar.appendChild(link);
+    });
+}
+// Additional code to show a specific chat based on index and hide others
+function showChat(index) {
+    const allChats = document.querySelectorAll('.conversation');
+    allChats.forEach((chat, chatIndex) => {
+        if (chatIndex === index) {
+            chat.style.display = 'block';
+        } else {
+            chat.style.display = 'none';
+        }
     });
 }
