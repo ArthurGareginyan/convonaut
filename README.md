@@ -3,7 +3,7 @@
 
 ## Description
 
-Convonaut is a user-friendly ChatGPT Archive Navigator designed to simplify the exploration of past conversations. Inspired by the exploratory spirit of [Space X-Chimp](https://github.com/ArthurGareginyan/), this open-source tool dynamically generates a navigable interface for your ChatGPT archives.
+Convonaut is a user-friendly ChatGPT Archive Navigator designed to simplify the exploration of past conversations. Inspired by the exploratory spirit of [Space X-Chimp](https://www.spacexchimp.com), this open-source tool dynamically generates a navigable interface for your ChatGPT archives.
 
 
 ## Why This Project Exists
