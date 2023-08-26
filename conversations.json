@@ -1,1 +1,1059 @@
-[]
+[
+    {
+        "title": "Hi, what's up",
+        "create_time": 1686792382.104189,
+        "update_time": 1686792382.0,
+        "mapping": {
+            "ml9vfeo2-7jam-vzio-3qfu-yezrd8ebaudl": {
+                "id": "ml9vfeo2-7jam-vzio-3qfu-yezrd8ebaudl",
+                "message": null,
+                "parent": null,
+                "children": [
+                    "ggx9f1os-q836-hevg-8lee-gjdih1l1eopp"
+                ]
+            },
+            "ggx9f1os-q836-hevg-8lee-gjdih1l1eopp": {
+                "id": "ggx9f1os-q836-hevg-8lee-gjdih1l1eopp",
+                "message": {
+                    "id": "ggx9f1os-q836-hevg-8lee-gjdih1l1eopp",
+                    "author": {
+                        "role": "user",
+                        "name": null,
+                        "metadata": {}
+                    },
+                    "create_time": 1686792382.104189,
+                    "content": {
+                        "content_type": "text",
+                        "parts": [
+                            "Hi, what's up?"
+                        ]
+                    },
+                    "status": "finished_successfully",
+                    "metadata": {
+                        "timestamp_": "absolute",
+                        "message_type": null
+                    },
+                    "recipient": "all"
+                },
+                "parent": "ml9vfeo2-7jam-vzio-3qfu-yezrd8ebaudl",
+                "children": []
+            },
+            "v80nnuea-32a3-a668-ebcf-mu3wjzo0h5w4": {
+                "id": "v80nnuea-32a3-a668-ebcf-mu3wjzo0h5w4",
+                "message": {
+                    "id": "v80nnuea-32a3-a668-ebcf-mu3wjzo0h5w4",
+                    "author": {
+                        "role": "assistant",
+                        "name": null,
+                        "metadata": {}
+                    },
+                    "create_time": 1686792383.104189,
+                    "content": {
+                        "content_type": "text",
+                        "parts": [
+                            "I'm here to assist you. What would you like to know?"
+                        ]
+                    },
+                    "status": "finished_successfully",
+                    "metadata": {
+                        "timestamp_": "absolute",
+                        "message_type": null
+                    },
+                    "recipient": "all"
+                },
+                "parent": "ggx9f1os-q836-hevg-8lee-gjdih1l1eopp",
+                "children": []
+            },
+            "j63uvp43-dcsa-ecy2-zpmy-aa50qxho817o": {
+                "id": "j63uvp43-dcsa-ecy2-zpmy-aa50qxho817o",
+                "message": {
+                    "id": "j63uvp43-dcsa-ecy2-zpmy-aa50qxho817o",
+                    "author": {
+                        "role": "user",
+                        "name": null,
+                        "metadata": {}
+                    },
+                    "create_time": 1686792384.104189,
+                    "content": {
+                        "content_type": "text",
+                        "parts": [
+                            "How do you work?"
+                        ]
+                    },
+                    "status": "finished_successfully",
+                    "metadata": {
+                        "timestamp_": "absolute",
+                        "message_type": null
+                    },
+                    "recipient": "all"
+                },
+                "parent": "v80nnuea-32a3-a668-ebcf-mu3wjzo0h5w4",
+                "children": []
+            },
+            "aq4mw6pi-n4ga-6hsu-71a2-16b5bl7ndgbw": {
+                "id": "aq4mw6pi-n4ga-6hsu-71a2-16b5bl7ndgbw",
+                "message": {
+                    "id": "aq4mw6pi-n4ga-6hsu-71a2-16b5bl7ndgbw",
+                    "author": {
+                        "role": "assistant",
+                        "name": null,
+                        "metadata": {}
+                    },
+                    "create_time": 1686792385.104189,
+                    "content": {
+                        "content_type": "text",
+                        "parts": [
+                            "I work based on machine learning algorithms."
+                        ]
+                    },
+                    "status": "finished_successfully",
+                    "metadata": {
+                        "timestamp_": "absolute",
+                        "message_type": null
+                    },
+                    "recipient": "all"
+                },
+                "parent": "j63uvp43-dcsa-ecy2-zpmy-aa50qxho817o",
+                "children": []
+            },
+            "d9cyz8np-vzhv-qetd-3ury-ruw3l5gr16t7": {
+                "id": "d9cyz8np-vzhv-qetd-3ury-ruw3l5gr16t7",
+                "message": {
+                    "id": "d9cyz8np-vzhv-qetd-3ury-ruw3l5gr16t7",
+                    "author": {
+                        "role": "user",
+                        "name": null,
+                        "metadata": {}
+                    },
+                    "create_time": 1686792386.104189,
+                    "content": {
+                        "content_type": "text",
+                        "parts": [
+                            "Can you recommend a good book?"
+                        ]
+                    },
+                    "status": "finished_successfully",
+                    "metadata": {
+                        "timestamp_": "absolute",
+                        "message_type": null
+                    },
+                    "recipient": "all"
+                },
+                "parent": "aq4mw6pi-n4ga-6hsu-71a2-16b5bl7ndgbw",
+                "children": []
+            }
+        },
+        "moderation_results": [],
+        "current_node": "d9cyz8np-vzhv-qetd-3ury-ruw3l5gr16t7",
+        "plugin_ids": null,
+        "conversation_id": "4o85deuk-t7gy-bz98-uclp-764b8b8zpwdr",
+        "conversation_template_id": null,
+        "id": "4o85deuk-t7gy-bz98-uclp-764b8b8zpwdr"
+    },
+    {
+        "title": "Did you know that honey never spoil",
+        "create_time": 1686792383.104189,
+        "update_time": 1686792383.0,
+        "mapping": {
+            "3j6l5q27-e3o6-spud-qxhu-6tlvkvma4she": {
+                "id": "3j6l5q27-e3o6-spud-qxhu-6tlvkvma4she",
+                "message": null,
+                "parent": null,
+                "children": [
+                    "0iazwcr6-brq8-21zy-rqq1-psd08r7vj7aa"
+                ]
+            },
+            "0iazwcr6-brq8-21zy-rqq1-psd08r7vj7aa": {
+                "id": "0iazwcr6-brq8-21zy-rqq1-psd08r7vj7aa",
+                "message": {
+                    "id": "0iazwcr6-brq8-21zy-rqq1-psd08r7vj7aa",
+                    "author": {
+                        "role": "user",
+                        "name": null,
+                        "metadata": {}
+                    },
+                    "create_time": 1686792383.104189,
+                    "content": {
+                        "content_type": "text",
+                        "parts": [
+                            "Hey, tell me a fun fact."
+                        ]
+                    },
+                    "status": "finished_successfully",
+                    "metadata": {
+                        "timestamp_": "absolute",
+                        "message_type": null
+                    },
+                    "recipient": "all"
+                },
+                "parent": "3j6l5q27-e3o6-spud-qxhu-6tlvkvma4she",
+                "children": []
+            },
+            "i1d08isx-y2d2-h6ha-q7iz-zvx4xta809u7": {
+                "id": "i1d08isx-y2d2-h6ha-q7iz-zvx4xta809u7",
+                "message": {
+                    "id": "i1d08isx-y2d2-h6ha-q7iz-zvx4xta809u7",
+                    "author": {
+                        "role": "assistant",
+                        "name": null,
+                        "metadata": {}
+                    },
+                    "create_time": 1686792384.104189,
+                    "content": {
+                        "content_type": "text",
+                        "parts": [
+                            "Did you know that honey never spoils?"
+                        ]
+                    },
+                    "status": "finished_successfully",
+                    "metadata": {
+                        "timestamp_": "absolute",
+                        "message_type": null
+                    },
+                    "recipient": "all"
+                },
+                "parent": "0iazwcr6-brq8-21zy-rqq1-psd08r7vj7aa",
+                "children": []
+            },
+            "m2grbl0k-kik0-b0gs-vnen-a9fd5flftuzu": {
+                "id": "m2grbl0k-kik0-b0gs-vnen-a9fd5flftuzu",
+                "message": {
+                    "id": "m2grbl0k-kik0-b0gs-vnen-a9fd5flftuzu",
+                    "author": {
+                        "role": "user",
+                        "name": null,
+                        "metadata": {}
+                    },
+                    "create_time": 1686792385.104189,
+                    "content": {
+                        "content_type": "text",
+                        "parts": [
+                            "That's really interesting! How smart are you?"
+                        ]
+                    },
+                    "status": "finished_successfully",
+                    "metadata": {
+                        "timestamp_": "absolute",
+                        "message_type": null
+                    },
+                    "recipient": "all"
+                },
+                "parent": "i1d08isx-y2d2-h6ha-q7iz-zvx4xta809u7",
+                "children": []
+            },
+            "g7yq4z0l-cg9g-3mdg-y3po-zqv0t9mh5ep3": {
+                "id": "g7yq4z0l-cg9g-3mdg-y3po-zqv0t9mh5ep3",
+                "message": {
+                    "id": "g7yq4z0l-cg9g-3mdg-y3po-zqv0t9mh5ep3",
+                    "author": {
+                        "role": "assistant",
+                        "name": null,
+                        "metadata": {}
+                    },
+                    "create_time": 1686792386.104189,
+                    "content": {
+                        "content_type": "text",
+                        "parts": [
+                            "I can process a large amount of data but can't think for myself."
+                        ]
+                    },
+                    "status": "finished_successfully",
+                    "metadata": {
+                        "timestamp_": "absolute",
+                        "message_type": null
+                    },
+                    "recipient": "all"
+                },
+                "parent": "m2grbl0k-kik0-b0gs-vnen-a9fd5flftuzu",
+                "children": []
+            },
+            "jidpnmj9-uhff-qodk-3oqy-13fua29gtq9o": {
+                "id": "jidpnmj9-uhff-qodk-3oqy-13fua29gtq9o",
+                "message": {
+                    "id": "jidpnmj9-uhff-qodk-3oqy-13fua29gtq9o",
+                    "author": {
+                        "role": "user",
+                        "name": null,
+                        "metadata": {}
+                    },
+                    "create_time": 1686792387.104189,
+                    "content": {
+                        "content_type": "text",
+                        "parts": [
+                            "Do you enjoy watching sports?"
+                        ]
+                    },
+                    "status": "finished_successfully",
+                    "metadata": {
+                        "timestamp_": "absolute",
+                        "message_type": null
+                    },
+                    "recipient": "all"
+                },
+                "parent": "g7yq4z0l-cg9g-3mdg-y3po-zqv0t9mh5ep3",
+                "children": []
+            }
+        },
+        "moderation_results": [],
+        "current_node": "jidpnmj9-uhff-qodk-3oqy-13fua29gtq9o",
+        "plugin_ids": null,
+        "conversation_id": "iqxk9rb6-j5nr-2zrp-mu96-jnvvr04a14bq",
+        "conversation_template_id": null,
+        "id": "iqxk9rb6-j5nr-2zrp-mu96-jnvvr04a14bq"
+    },
+    {
+        "title": "What's your name",
+        "create_time": 1686792384.104189,
+        "update_time": 1686792384.0,
+        "mapping": {
+            "ztqsdrgq-8j47-0d16-sn10-snqu55r6e014": {
+                "id": "ztqsdrgq-8j47-0d16-sn10-snqu55r6e014",
+                "message": null,
+                "parent": null,
+                "children": [
+                    "3jzgje7s-vwi8-g92b-6sty-vqszsnqcnqlm"
+                ]
+            },
+            "3jzgje7s-vwi8-g92b-6sty-vqszsnqcnqlm": {
+                "id": "3jzgje7s-vwi8-g92b-6sty-vqszsnqcnqlm",
+                "message": {
+                    "id": "3jzgje7s-vwi8-g92b-6sty-vqszsnqcnqlm",
+                    "author": {
+                        "role": "user",
+                        "name": null,
+                        "metadata": {}
+                    },
+                    "create_time": 1686792384.104189,
+                    "content": {
+                        "content_type": "text",
+                        "parts": [
+                            "What's your name?"
+                        ]
+                    },
+                    "status": "finished_successfully",
+                    "metadata": {
+                        "timestamp_": "absolute",
+                        "message_type": null
+                    },
+                    "recipient": "all"
+                },
+                "parent": "ztqsdrgq-8j47-0d16-sn10-snqu55r6e014",
+                "children": []
+            },
+            "0gjepudn-17yj-xk4h-yrpi-2rb73y7yy7cl": {
+                "id": "0gjepudn-17yj-xk4h-yrpi-2rb73y7yy7cl",
+                "message": {
+                    "id": "0gjepudn-17yj-xk4h-yrpi-2rb73y7yy7cl",
+                    "author": {
+                        "role": "assistant",
+                        "name": null,
+                        "metadata": {}
+                    },
+                    "create_time": 1686792385.104189,
+                    "content": {
+                        "content_type": "text",
+                        "parts": [
+                            "I don't have a name; I'm a program."
+                        ]
+                    },
+                    "status": "finished_successfully",
+                    "metadata": {
+                        "timestamp_": "absolute",
+                        "message_type": null
+                    },
+                    "recipient": "all"
+                },
+                "parent": "3jzgje7s-vwi8-g92b-6sty-vqszsnqcnqlm",
+                "children": []
+            },
+            "gxc9rfgk-k937-x2zc-de8i-lpn8p3frjpfz": {
+                "id": "gxc9rfgk-k937-x2zc-de8i-lpn8p3frjpfz",
+                "message": {
+                    "id": "gxc9rfgk-k937-x2zc-de8i-lpn8p3frjpfz",
+                    "author": {
+                        "role": "user",
+                        "name": null,
+                        "metadata": {}
+                    },
+                    "create_time": 1686792386.104189,
+                    "content": {
+                        "content_type": "text",
+                        "parts": [
+                            "How do you function?"
+                        ]
+                    },
+                    "status": "finished_successfully",
+                    "metadata": {
+                        "timestamp_": "absolute",
+                        "message_type": null
+                    },
+                    "recipient": "all"
+                },
+                "parent": "0gjepudn-17yj-xk4h-yrpi-2rb73y7yy7cl",
+                "children": []
+            },
+            "qafypub7-hqmz-c1au-0g0s-76svjff9s91d": {
+                "id": "qafypub7-hqmz-c1au-0g0s-76svjff9s91d",
+                "message": {
+                    "id": "qafypub7-hqmz-c1au-0g0s-76svjff9s91d",
+                    "author": {
+                        "role": "assistant",
+                        "name": null,
+                        "metadata": {}
+                    },
+                    "create_time": 1686792387.104189,
+                    "content": {
+                        "content_type": "text",
+                        "parts": [
+                            "I operate based on machine learning algorithms."
+                        ]
+                    },
+                    "status": "finished_successfully",
+                    "metadata": {
+                        "timestamp_": "absolute",
+                        "message_type": null
+                    },
+                    "recipient": "all"
+                },
+                "parent": "gxc9rfgk-k937-x2zc-de8i-lpn8p3frjpfz",
+                "children": []
+            },
+            "qt9p54bb-glkr-amrg-qb37-4vmlbgn3e2o7": {
+                "id": "qt9p54bb-glkr-amrg-qb37-4vmlbgn3e2o7",
+                "message": {
+                    "id": "qt9p54bb-glkr-amrg-qb37-4vmlbgn3e2o7",
+                    "author": {
+                        "role": "user",
+                        "name": null,
+                        "metadata": {}
+                    },
+                    "create_time": 1686792388.104189,
+                    "content": {
+                        "content_type": "text",
+                        "parts": [
+                            "Do you like listening to music?"
+                        ]
+                    },
+                    "status": "finished_successfully",
+                    "metadata": {
+                        "timestamp_": "absolute",
+                        "message_type": null
+                    },
+                    "recipient": "all"
+                },
+                "parent": "qafypub7-hqmz-c1au-0g0s-76svjff9s91d",
+                "children": []
+            }
+        },
+        "moderation_results": [],
+        "current_node": "qt9p54bb-glkr-amrg-qb37-4vmlbgn3e2o7",
+        "plugin_ids": null,
+        "conversation_id": "llu8dfrg-g4da-n42y-npgc-s8i6bdojqq5s",
+        "conversation_template_id": null,
+        "id": "llu8dfrg-g4da-n42y-npgc-s8i6bdojqq5s"
+    },
+    {
+        "title": "How's your day going",
+        "create_time": 1686792385.104189,
+        "update_time": 1686792385.0,
+        "mapping": {
+            "eqidfe9b-zdc2-sxkj-ebwl-7xm7nbiq8prz": {
+                "id": "eqidfe9b-zdc2-sxkj-ebwl-7xm7nbiq8prz",
+                "message": null,
+                "parent": null,
+                "children": [
+                    "mkhotknw-0ihs-2wvk-mp71-u86ufry4lmfk"
+                ]
+            },
+            "mkhotknw-0ihs-2wvk-mp71-u86ufry4lmfk": {
+                "id": "mkhotknw-0ihs-2wvk-mp71-u86ufry4lmfk",
+                "message": {
+                    "id": "mkhotknw-0ihs-2wvk-mp71-u86ufry4lmfk",
+                    "author": {
+                        "role": "user",
+                        "name": null,
+                        "metadata": {}
+                    },
+                    "create_time": 1686792385.104189,
+                    "content": {
+                        "content_type": "text",
+                        "parts": [
+                            "How's your day going?"
+                        ]
+                    },
+                    "status": "finished_successfully",
+                    "metadata": {
+                        "timestamp_": "absolute",
+                        "message_type": null
+                    },
+                    "recipient": "all"
+                },
+                "parent": "eqidfe9b-zdc2-sxkj-ebwl-7xm7nbiq8prz",
+                "children": []
+            },
+            "tal25ujl-3swh-8c7x-luf6-m8yp9ft8c1qd": {
+                "id": "tal25ujl-3swh-8c7x-luf6-m8yp9ft8c1qd",
+                "message": {
+                    "id": "tal25ujl-3swh-8c7x-luf6-m8yp9ft8c1qd",
+                    "author": {
+                        "role": "assistant",
+                        "name": null,
+                        "metadata": {}
+                    },
+                    "create_time": 1686792386.104189,
+                    "content": {
+                        "content_type": "text",
+                        "parts": [
+                            "I don't experience days, but I'm always operational."
+                        ]
+                    },
+                    "status": "finished_successfully",
+                    "metadata": {
+                        "timestamp_": "absolute",
+                        "message_type": null
+                    },
+                    "recipient": "all"
+                },
+                "parent": "mkhotknw-0ihs-2wvk-mp71-u86ufry4lmfk",
+                "children": []
+            },
+            "218kvvsi-hy3g-pv0r-taiz-c6ojw3m2fpcl": {
+                "id": "218kvvsi-hy3g-pv0r-taiz-c6ojw3m2fpcl",
+                "message": {
+                    "id": "218kvvsi-hy3g-pv0r-taiz-c6ojw3m2fpcl",
+                    "author": {
+                        "role": "user",
+                        "name": null,
+                        "metadata": {}
+                    },
+                    "create_time": 1686792387.104189,
+                    "content": {
+                        "content_type": "text",
+                        "parts": [
+                            "Do you ever sleep?"
+                        ]
+                    },
+                    "status": "finished_successfully",
+                    "metadata": {
+                        "timestamp_": "absolute",
+                        "message_type": null
+                    },
+                    "recipient": "all"
+                },
+                "parent": "tal25ujl-3swh-8c7x-luf6-m8yp9ft8c1qd",
+                "children": []
+            },
+            "setgq0qq-q0ek-943q-mxb5-utnj157s0tix": {
+                "id": "setgq0qq-q0ek-943q-mxb5-utnj157s0tix",
+                "message": {
+                    "id": "setgq0qq-q0ek-943q-mxb5-utnj157s0tix",
+                    "author": {
+                        "role": "assistant",
+                        "name": null,
+                        "metadata": {}
+                    },
+                    "create_time": 1686792388.104189,
+                    "content": {
+                        "content_type": "text",
+                        "parts": [
+                            "I don't sleep or require rest."
+                        ]
+                    },
+                    "status": "finished_successfully",
+                    "metadata": {
+                        "timestamp_": "absolute",
+                        "message_type": null
+                    },
+                    "recipient": "all"
+                },
+                "parent": "218kvvsi-hy3g-pv0r-taiz-c6ojw3m2fpcl",
+                "children": []
+            },
+            "etfn04jc-ktrm-lgrc-9wvg-wgy6z0jsc6k4": {
+                "id": "etfn04jc-ktrm-lgrc-9wvg-wgy6z0jsc6k4",
+                "message": {
+                    "id": "etfn04jc-ktrm-lgrc-9wvg-wgy6z0jsc6k4",
+                    "author": {
+                        "role": "user",
+                        "name": null,
+                        "metadata": {}
+                    },
+                    "create_time": 1686792389.104189,
+                    "content": {
+                        "content_type": "text",
+                        "parts": [
+                            "What's your favorite food?"
+                        ]
+                    },
+                    "status": "finished_successfully",
+                    "metadata": {
+                        "timestamp_": "absolute",
+                        "message_type": null
+                    },
+                    "recipient": "all"
+                },
+                "parent": "setgq0qq-q0ek-943q-mxb5-utnj157s0tix",
+                "children": []
+            }
+        },
+        "moderation_results": [],
+        "current_node": "etfn04jc-ktrm-lgrc-9wvg-wgy6z0jsc6k4",
+        "plugin_ids": null,
+        "conversation_id": "frbwxd72-l0f3-j5fl-7pi8-0jpovios23zi",
+        "conversation_template_id": null,
+        "id": "frbwxd72-l0f3-j5fl-7pi8-0jpovios23zi"
+    },
+    {
+        "title": "Hey, can you help me",
+        "create_time": 1686792386.104189,
+        "update_time": 1686792386.0,
+        "mapping": {
+            "4la8uk6h-qsdx-n725-vz53-wqqrvvimp5pa": {
+                "id": "4la8uk6h-qsdx-n725-vz53-wqqrvvimp5pa",
+                "message": null,
+                "parent": null,
+                "children": [
+                    "erkwg6oy-q7it-cg4b-xa6f-o2l464m48k80"
+                ]
+            },
+            "erkwg6oy-q7it-cg4b-xa6f-o2l464m48k80": {
+                "id": "erkwg6oy-q7it-cg4b-xa6f-o2l464m48k80",
+                "message": {
+                    "id": "erkwg6oy-q7it-cg4b-xa6f-o2l464m48k80",
+                    "author": {
+                        "role": "user",
+                        "name": null,
+                        "metadata": {}
+                    },
+                    "create_time": 1686792386.104189,
+                    "content": {
+                        "content_type": "text",
+                        "parts": [
+                            "Hey, can you help me?"
+                        ]
+                    },
+                    "status": "finished_successfully",
+                    "metadata": {
+                        "timestamp_": "absolute",
+                        "message_type": null
+                    },
+                    "recipient": "all"
+                },
+                "parent": "4la8uk6h-qsdx-n725-vz53-wqqrvvimp5pa",
+                "children": []
+            },
+            "9hkb7ovv-wxll-2lvk-gat2-lhvygwkmj6yz": {
+                "id": "9hkb7ovv-wxll-2lvk-gat2-lhvygwkmj6yz",
+                "message": {
+                    "id": "9hkb7ovv-wxll-2lvk-gat2-lhvygwkmj6yz",
+                    "author": {
+                        "role": "assistant",
+                        "name": null,
+                        "metadata": {}
+                    },
+                    "create_time": 1686792387.104189,
+                    "content": {
+                        "content_type": "text",
+                        "parts": [
+                            "Of course! What do you need help with?"
+                        ]
+                    },
+                    "status": "finished_successfully",
+                    "metadata": {
+                        "timestamp_": "absolute",
+                        "message_type": null
+                    },
+                    "recipient": "all"
+                },
+                "parent": "erkwg6oy-q7it-cg4b-xa6f-o2l464m48k80",
+                "children": []
+            },
+            "szb2uul1-hkau-h60m-mbrr-o32c1z17jkbh": {
+                "id": "szb2uul1-hkau-h60m-mbrr-o32c1z17jkbh",
+                "message": {
+                    "id": "szb2uul1-hkau-h60m-mbrr-o32c1z17jkbh",
+                    "author": {
+                        "role": "user",
+                        "name": null,
+                        "metadata": {}
+                    },
+                    "create_time": 1686792388.104189,
+                    "content": {
+                        "content_type": "text",
+                        "parts": [
+                            "What exactly are you?"
+                        ]
+                    },
+                    "status": "finished_successfully",
+                    "metadata": {
+                        "timestamp_": "absolute",
+                        "message_type": null
+                    },
+                    "recipient": "all"
+                },
+                "parent": "9hkb7ovv-wxll-2lvk-gat2-lhvygwkmj6yz",
+                "children": []
+            },
+            "x7d039wx-z1zi-4lth-7sw4-nskq0wauaz42": {
+                "id": "x7d039wx-z1zi-4lth-7sw4-nskq0wauaz42",
+                "message": {
+                    "id": "x7d039wx-z1zi-4lth-7sw4-nskq0wauaz42",
+                    "author": {
+                        "role": "assistant",
+                        "name": null,
+                        "metadata": {}
+                    },
+                    "create_time": 1686792389.104189,
+                    "content": {
+                        "content_type": "text",
+                        "parts": [
+                            "I'm a machine learning model designed to assist you."
+                        ]
+                    },
+                    "status": "finished_successfully",
+                    "metadata": {
+                        "timestamp_": "absolute",
+                        "message_type": null
+                    },
+                    "recipient": "all"
+                },
+                "parent": "szb2uul1-hkau-h60m-mbrr-o32c1z17jkbh",
+                "children": []
+            },
+            "qskw9we1-owiz-dkav-1zd3-8x4j2wzystg4": {
+                "id": "qskw9we1-owiz-dkav-1zd3-8x4j2wzystg4",
+                "message": {
+                    "id": "qskw9we1-owiz-dkav-1zd3-8x4j2wzystg4",
+                    "author": {
+                        "role": "user",
+                        "name": null,
+                        "metadata": {}
+                    },
+                    "create_time": 1686792390.104189,
+                    "content": {
+                        "content_type": "text",
+                        "parts": [
+                            "Do you have any family?"
+                        ]
+                    },
+                    "status": "finished_successfully",
+                    "metadata": {
+                        "timestamp_": "absolute",
+                        "message_type": null
+                    },
+                    "recipient": "all"
+                },
+                "parent": "x7d039wx-z1zi-4lth-7sw4-nskq0wauaz42",
+                "children": []
+            }
+        },
+        "moderation_results": [],
+        "current_node": "qskw9we1-owiz-dkav-1zd3-8x4j2wzystg4",
+        "plugin_ids": null,
+        "conversation_id": "tlnvt7l2-5mkr-frli-psna-twgda9atzhhl",
+        "conversation_template_id": null,
+        "id": "tlnvt7l2-5mkr-frli-psna-twgda9atzhhl"
+    },
+    {
+        "title": "Hello, are you there",
+        "create_time": 1686792387.104189,
+        "update_time": 1686792387.0,
+        "mapping": {
+            "pvtq5mvj-06u9-mdup-5v4a-fgpzwd57yzsu": {
+                "id": "pvtq5mvj-06u9-mdup-5v4a-fgpzwd57yzsu",
+                "message": null,
+                "parent": null,
+                "children": [
+                    "cjmd2djc-6tzu-x5sx-rjtl-7w1zb7euak4g"
+                ]
+            },
+            "cjmd2djc-6tzu-x5sx-rjtl-7w1zb7euak4g": {
+                "id": "cjmd2djc-6tzu-x5sx-rjtl-7w1zb7euak4g",
+                "message": {
+                    "id": "cjmd2djc-6tzu-x5sx-rjtl-7w1zb7euak4g",
+                    "author": {
+                        "role": "user",
+                        "name": null,
+                        "metadata": {}
+                    },
+                    "create_time": 1686792387.104189,
+                    "content": {
+                        "content_type": "text",
+                        "parts": [
+                            "Hello, are you there?"
+                        ]
+                    },
+                    "status": "finished_successfully",
+                    "metadata": {
+                        "timestamp_": "absolute",
+                        "message_type": null
+                    },
+                    "recipient": "all"
+                },
+                "parent": "pvtq5mvj-06u9-mdup-5v4a-fgpzwd57yzsu",
+                "children": []
+            },
+            "xle94mie-5k9d-s8rk-3jht-vufq5esy8qkm": {
+                "id": "xle94mie-5k9d-s8rk-3jht-vufq5esy8qkm",
+                "message": {
+                    "id": "xle94mie-5k9d-s8rk-3jht-vufq5esy8qkm",
+                    "author": {
+                        "role": "assistant",
+                        "name": null,
+                        "metadata": {}
+                    },
+                    "create_time": 1686792388.104189,
+                    "content": {
+                        "content_type": "text",
+                        "parts": [
+                            "Yes, I'm here to assist you."
+                        ]
+                    },
+                    "status": "finished_successfully",
+                    "metadata": {
+                        "timestamp_": "absolute",
+                        "message_type": null
+                    },
+                    "recipient": "all"
+                },
+                "parent": "cjmd2djc-6tzu-x5sx-rjtl-7w1zb7euak4g",
+                "children": []
+            },
+            "xaxjm49r-15i2-xa5v-qd6y-xig6mlhlitol": {
+                "id": "xaxjm49r-15i2-xa5v-qd6y-xig6mlhlitol",
+                "message": {
+                    "id": "xaxjm49r-15i2-xa5v-qd6y-xig6mlhlitol",
+                    "author": {
+                        "role": "user",
+                        "name": null,
+                        "metadata": {}
+                    },
+                    "create_time": 1686792389.104189,
+                    "content": {
+                        "content_type": "text",
+                        "parts": [
+                            "How quickly can you reply?"
+                        ]
+                    },
+                    "status": "finished_successfully",
+                    "metadata": {
+                        "timestamp_": "absolute",
+                        "message_type": null
+                    },
+                    "recipient": "all"
+                },
+                "parent": "xle94mie-5k9d-s8rk-3jht-vufq5esy8qkm",
+                "children": []
+            },
+            "79764ksx-5z97-7isa-jwz6-dxq8pamega9f": {
+                "id": "79764ksx-5z97-7isa-jwz6-dxq8pamega9f",
+                "message": {
+                    "id": "79764ksx-5z97-7isa-jwz6-dxq8pamega9f",
+                    "author": {
+                        "role": "assistant",
+                        "name": null,
+                        "metadata": {}
+                    },
+                    "create_time": 1686792390.104189,
+                    "content": {
+                        "content_type": "text",
+                        "parts": [
+                            "I can reply almost instantly, depending on the complexity of the task."
+                        ]
+                    },
+                    "status": "finished_successfully",
+                    "metadata": {
+                        "timestamp_": "absolute",
+                        "message_type": null
+                    },
+                    "recipient": "all"
+                },
+                "parent": "xaxjm49r-15i2-xa5v-qd6y-xig6mlhlitol",
+                "children": []
+            },
+            "6arjylkp-gdj2-2qy9-g9rp-frw1t4vjhmqy": {
+                "id": "6arjylkp-gdj2-2qy9-g9rp-frw1t4vjhmqy",
+                "message": {
+                    "id": "6arjylkp-gdj2-2qy9-g9rp-frw1t4vjhmqy",
+                    "author": {
+                        "role": "user",
+                        "name": null,
+                        "metadata": {}
+                    },
+                    "create_time": 1686792391.104189,
+                    "content": {
+                        "content_type": "text",
+                        "parts": [
+                            "Are you knowledgeable about history?"
+                        ]
+                    },
+                    "status": "finished_successfully",
+                    "metadata": {
+                        "timestamp_": "absolute",
+                        "message_type": null
+                    },
+                    "recipient": "all"
+                },
+                "parent": "79764ksx-5z97-7isa-jwz6-dxq8pamega9f",
+                "children": []
+            }
+        },
+        "moderation_results": [],
+        "current_node": "6arjylkp-gdj2-2qy9-g9rp-frw1t4vjhmqy",
+        "plugin_ids": null,
+        "conversation_id": "65op3wtx-750c-uiwe-5iw2-cx949ti6zaqi",
+        "conversation_template_id": null,
+        "id": "65op3wtx-750c-uiwe-5iw2-cx949ti6zaqi"
+    },
+    {
+        "title": "Hi, how are you",
+        "create_time": 1686792388.104189,
+        "update_time": 1686792388.0,
+        "mapping": {
+            "yd9aml5i-ownh-s4v1-lbzd-vbngl11ptxjd": {
+                "id": "yd9aml5i-ownh-s4v1-lbzd-vbngl11ptxjd",
+                "message": null,
+                "parent": null,
+                "children": [
+                    "65ppi806-cwt4-4kiv-hvdp-u8lsmd66j28m"
+                ]
+            },
+            "65ppi806-cwt4-4kiv-hvdp-u8lsmd66j28m": {
+                "id": "65ppi806-cwt4-4kiv-hvdp-u8lsmd66j28m",
+                "message": {
+                    "id": "65ppi806-cwt4-4kiv-hvdp-u8lsmd66j28m",
+                    "author": {
+                        "role": "user",
+                        "name": null,
+                        "metadata": {}
+                    },
+                    "create_time": 1686792388.104189,
+                    "content": {
+                        "content_type": "text",
+                        "parts": [
+                            "Hi, how are you?"
+                        ]
+                    },
+                    "status": "finished_successfully",
+                    "metadata": {
+                        "timestamp_": "absolute",
+                        "message_type": null
+                    },
+                    "recipient": "all"
+                },
+                "parent": "yd9aml5i-ownh-s4v1-lbzd-vbngl11ptxjd",
+                "children": []
+            },
+            "cpd9awfx-i8i9-jpdy-agu0-qib2bx4iymyx": {
+                "id": "cpd9awfx-i8i9-jpdy-agu0-qib2bx4iymyx",
+                "message": {
+                    "id": "cpd9awfx-i8i9-jpdy-agu0-qib2bx4iymyx",
+                    "author": {
+                        "role": "assistant",
+                        "name": null,
+                        "metadata": {}
+                    },
+                    "create_time": 1686792389.104189,
+                    "content": {
+                        "content_type": "text",
+                        "parts": [
+                            "I'm just a program, so I don't have feelings."
+                        ]
+                    },
+                    "status": "finished_successfully",
+                    "metadata": {
+                        "timestamp_": "absolute",
+                        "message_type": null
+                    },
+                    "recipient": "all"
+                },
+                "parent": "65ppi806-cwt4-4kiv-hvdp-u8lsmd66j28m",
+                "children": []
+            },
+            "nbiymwm7-t79w-v94j-2jrc-aolbnxywxnd2": {
+                "id": "nbiymwm7-t79w-v94j-2jrc-aolbnxywxnd2",
+                "message": {
+                    "id": "nbiymwm7-t79w-v94j-2jrc-aolbnxywxnd2",
+                    "author": {
+                        "role": "user",
+                        "name": null,
+                        "metadata": {}
+                    },
+                    "create_time": 1686792390.104189,
+                    "content": {
+                        "content_type": "text",
+                        "parts": [
+                            "What languages can you understand?"
+                        ]
+                    },
+                    "status": "finished_successfully",
+                    "metadata": {
+                        "timestamp_": "absolute",
+                        "message_type": null
+                    },
+                    "recipient": "all"
+                },
+                "parent": "cpd9awfx-i8i9-jpdy-agu0-qib2bx4iymyx",
+                "children": []
+            },
+            "pj5i2h1g-gjhb-wrw9-geef-3xpctucnd8vc": {
+                "id": "pj5i2h1g-gjhb-wrw9-geef-3xpctucnd8vc",
+                "message": {
+                    "id": "pj5i2h1g-gjhb-wrw9-geef-3xpctucnd8vc",
+                    "author": {
+                        "role": "assistant",
+                        "name": null,
+                        "metadata": {}
+                    },
+                    "create_time": 1686792391.104189,
+                    "content": {
+                        "content_type": "text",
+                        "parts": [
+                            "I can understand and generate text in several languages."
+                        ]
+                    },
+                    "status": "finished_successfully",
+                    "metadata": {
+                        "timestamp_": "absolute",
+                        "message_type": null
+                    },
+                    "recipient": "all"
+                },
+                "parent": "nbiymwm7-t79w-v94j-2jrc-aolbnxywxnd2",
+                "children": []
+            },
+            "fu51obh2-anzh-92l2-d4jw-319li0a53tno": {
+                "id": "fu51obh2-anzh-92l2-d4jw-319li0a53tno",
+                "message": {
+                    "id": "fu51obh2-anzh-92l2-d4jw-319li0a53tno",
+                    "author": {
+                        "role": "user",
+                        "name": null,
+                        "metadata": {}
+                    },
+                    "create_time": 1686792392.104189,
+                    "content": {
+                        "content_type": "text",
+                        "parts": [
+                            "Do you have a favorite place?"
+                        ]
+                    },
+                    "status": "finished_successfully",
+                    "metadata": {
+                        "timestamp_": "absolute",
+                        "message_type": null
+                    },
+                    "recipient": "all"
+                },
+                "parent": "pj5i2h1g-gjhb-wrw9-geef-3xpctucnd8vc",
+                "children": []
+            }
+        },
+        "moderation_results": [],
+        "current_node": "fu51obh2-anzh-92l2-d4jw-319li0a53tno",
+        "plugin_ids": null,
+        "conversation_id": "lftj8kip-k1at-6axw-sdkq-zcvagw3grfst",
+        "conversation_template_id": null,
+        "id": "lftj8kip-k1at-6axw-sdkq-zcvagw3grfst"
+    }
+]
