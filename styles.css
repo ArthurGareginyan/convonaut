@@ -18,6 +18,8 @@ h4 {
 .message {
     white-space: pre-wrap;
     margin: 20px 0;
+    padding: 10px;
+    border: 1px solid #ccc;
 }
 .author {
     font-weight: bold;
