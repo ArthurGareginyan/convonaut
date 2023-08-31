@@ -1,33 +1,40 @@
 body {
     margin: 0px;
 }
+
 h4 {
     font-family: sans-serif;
     margin: 0;
 }
+
 #root {
     display: flex;
     flex-direction: column;
     gap: 20px;
 }
+
 .conversation {
     border: 1px solid black;
     padding: 20px;
     background-color: #f3f3f3;
 }
+
 .message {
     white-space: pre-wrap;
     margin: 20px 0;
     padding: 10px;
     border: 1px solid #ccc;
 }
+
 .author {
     font-weight: bold;
     margin-bottom: 4px;
 }
+
 .author::first-letter {
     text-transform: uppercase;
 }
+
 .sidebar {
     width: 300px;
     background-color: #333;
@@ -35,6 +42,7 @@ h4 {
     height: 100%;
     overflow: auto;
 }
+
 .sidebar a {
     display: block;
     color: white;
@@ -48,6 +56,7 @@ h4 {
     overflow-y: hidden;
     overflow-x: hidden;
 }
+
 .sidebar a:hover {
     background-color: #575757;
 }
