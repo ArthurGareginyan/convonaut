@@ -2,6 +2,10 @@
 
 All notable changes to the "Convonaut" project will be documented in this file.
 
+## [0.3.0] - 2023-09-02
+### Changed
+- Code formatting improvement and comments adding
+
 ## [0.2.0] - 2023-08-26
 ### Added
 - Initial release with basic features for navigating ChatGPT archives.
